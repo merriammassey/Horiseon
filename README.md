@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Homepage Code Refactor
 
 ## Purpose
 A website that explains the services of Horiseon. 
