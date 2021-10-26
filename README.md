@@ -1,7 +1,10 @@
 # Horiseon Homepage Code Refactor
 
 ## Purpose
-A website that explains the services of Horiseon. 
+Refactor of a webpage including: 
+- improving accessibility and SEO,
+- improving codebase sustainability by ensuring that all links are functioning correctly, and 
+- making the CSS more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 ## Built With
 * HTML
@@ -15,8 +18,3 @@ https://merriammassey.github.io/Horiseon/
 
 ## Credits
 Thanks to Xandromus for the starter code.
-
-## Contribution
-Made with ❤️ by Merriam
-
-### ©️2019 Horiseon Social Solution Services, Inc 
